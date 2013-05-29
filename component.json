@@ -1,0 +1,13 @@
+{
+  "name": "ometa-js",
+  "version": "0.1.0",
+  "main": "lib/ometajs.js",
+  "scripts": [
+    "lib/ometajs.js",
+    "lib/ometajs/api.js",
+    "lib/ometajs/core.js",
+    "lib/ometajs/parser.js",
+    "lib/ometajs/utils.js",
+    "lib/ometajs/ometa/parsers.js"
+  ]
+}
